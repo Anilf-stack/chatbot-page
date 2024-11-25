@@ -144,3 +144,19 @@ src/
 └── postcss.config.js      # PostCSS configuration for TailwindCSS
 
 package.json               # Project dependencies and scripts
+
+## Deploy on Vercel
+ If using the Vercel CLI, run:
+ Copy code
+ vercel
+ Follow the CLI prompts to deploy.
+ If using the Vercel Dashboard:
+ Push your project to GitHub.
+ Connect your GitHub repository to Vercel via the Dashboard.
+ Deploy the project directly from the Vercel Dashboard.
+ # Accessing the Deployed Application
+ - The application has been deployed on Vercel and is accessible via the following URL:
+ # Deployed Application Link
+   https://chatbot-landing-page-1tenai5dc-anil-jadavs-projects.vercel.app/chatbox
+
+
