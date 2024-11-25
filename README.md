@@ -157,6 +157,6 @@ package.json               # Project dependencies and scripts
  # Accessing the Deployed Application
  - The application has been deployed on Vercel and is accessible via the following URL:
  # Deployed Application Link
-   https://chatbot-landing-page-1tenai5dc-anil-jadavs-projects.vercel.app/chatbox
+ https://chatbot-landing-page-1tenai5dc-anil-jadavs-projects.vercel.app/
 
 
